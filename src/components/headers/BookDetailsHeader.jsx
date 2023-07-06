@@ -26,6 +26,6 @@ const styles = StyleSheet.create({
   headerText: {fontWeight: '700', color: 'black', fontSize: 18},
   backButton: {
     position: 'absolute',
-    left: 20,
+    left: 8,
   },
 });
